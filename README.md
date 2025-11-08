@@ -65,11 +65,11 @@ Pour lancer le programme, il faut utiliser la ligne de commande :
 
 Exemple de commandes :
 
-    minishell$ echo "Hello world"
+    minishell> echo "Hello world"
     Hello world
-    minishell$ ls -l | grep .c | wc -l
-    minishell$ export NAME=42
-    minishell$ echo $NAME
+    minishell> ls -l | grep .c | wc -l
+    minishell> export NAME=42
+    minishell> echo $NAME
     42
 
 ## 3. **Nettoyage**
